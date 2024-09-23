@@ -5,7 +5,7 @@ function Contenedor({ mensaje }) {
             <h1 className="text-center">{mensaje}</h1>
             <p className="text-center">Aca va el catalogo de productos en futuras entregas.</p>
             <div className="row">
-                {/* Aquí se pueden agregar productos en el futuro */}
+                {/* Espacio para agregar productos */}
             </div>
         </div>
     );
